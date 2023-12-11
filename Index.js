@@ -2,7 +2,7 @@ var min=1;
 var max=7;
 var random1=Math.random();
 var randomNumber1=Math.floor(random1*(max-min)+min);
-var randomimages1="dice"+randomNumber1+".png";
+var randomimages1="GD.jpg";
 var image1=document.querySelectorAll("img")[0];
 
 var random2=Math.random();
